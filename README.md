@@ -20,6 +20,6 @@ ImageNet Dataset Description
 **Image features**: Resnet101 pretrained embedding (21842x2048)
 
 ### Exp1
-**Seen Classes**: 249 classes (1300 images per class)
+**Seen Classes**: 249 classes (1300 images per class)  
 **Unseen Classes**: 361 classes (800 images per class)
 

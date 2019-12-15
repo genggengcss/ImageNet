@@ -2,7 +2,7 @@
 ImageNet Dataset Description
 
 ### Dataset Split  
-**Filteres**: removing the classes without word embedding  
+**Filtered**: removing the classes without word embedding  
 
 |Split|Original  (index)|Filtered|
 |:------:|:------:|:------:|
